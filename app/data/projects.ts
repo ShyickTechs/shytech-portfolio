@@ -13,7 +13,7 @@ export const initialProjects: Project[] = [
     title: "Shyick Portfolio",
     desc: "Personal portfolio built with Next.js and Tailwind — showcases my work, skills and contact info.",
     tech: ["Next.js", "Tailwind", "Framer Motion"],
-    link: "#",
+    link: "https://shyicktech-portfolio.vercel.app",
   },
   {
     id: "p-chatla",
@@ -32,3 +32,4 @@ export const initialProjects: Project[] = [
 ];
 
 // tip: to add a new project manually — copy a block and change id/title/desc/tech/link
+``

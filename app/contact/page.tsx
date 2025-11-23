@@ -42,7 +42,7 @@ export default function Contact() {
         </p>
 
         <div className="flex flex-col sm:flex-row sm:flex-wrap justify-center gap-6 text-lg">
-          <a href="https://facebook.com/yourusername" target="_blank" className="flex items-center gap-3 bg-purple-900/20 hover:bg-purple-800/40 transition p-4 rounded-xl">
+          <a href="https://www.facebook.com/share/17SQB6VmZf/" target="_blank" className="flex items-center gap-3 bg-purple-900/20 hover:bg-purple-800/40 transition p-4 rounded-xl">
             <FaFacebook className="text-blue-500 text-2xl" />
             Facebook
           </a>
@@ -52,17 +52,17 @@ export default function Contact() {
             Instagram
           </a>
 
-          <a href="https://twitter.com/yourusername" target="_blank" className="flex items-center gap-3 bg-purple-900/20 hover:bg-purple-800/40 transition p-4 rounded-xl">
+          <a href="https://x.com/shyickDev?t=nW73s8QuZ8iJDe7vWhLY1Q&s=09" target="_blank" className="flex items-center gap-3 bg-purple-900/20 hover:bg-purple-800/40 transition p-4 rounded-xl">
             <FaTwitter className="text-sky-400 text-2xl" />
             Twitter
           </a>
 
-          <a href="https://github.com/yourusername" target="_blank" className="flex items-center gap-3 bg-purple-900/20 hover:bg-purple-800/40 transition p-4 rounded-xl">
+          <a href="https://github.com/ShyickTechs" target="_blank" className="flex items-center gap-3 bg-purple-900/20 hover:bg-purple-800/40 transition p-4 rounded-xl">
             <FaGithub className="text-gray-300 text-2xl" />
             GitHub
           </a>
 
-          <a href="https://wa.me/234XXXXXXXXXX" target="_blank" className="flex items-center gap-3 bg-purple-900/20 hover:bg-purple-800/40 transition p-4 rounded-xl">
+          <a href="https://wa.me/2348103811500" target="_blank" className="flex items-center gap-3 bg-purple-900/20 hover:bg-purple-800/40 transition p-4 rounded-xl">
             <FaWhatsapp className="text-green-500 text-2xl" />
             WhatsApp
           </a>
